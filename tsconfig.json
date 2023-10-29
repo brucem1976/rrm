@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "skipLibCheck": true,
+    "strict": true,
+    "module": "commonjs",
+    "declaration": true,
+    "outDir": "./lib",
+    "jsx": "react"
+  },
+  "exclude": ["node_modules", "**/__tests__/*"]
+}
